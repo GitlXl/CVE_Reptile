@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gitlxl.gitlxl">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gitlxl.cve_reptile">
 # CVE_Reptile
 > 一个失败的CVE爬虫案例，因为CVE编号并不是我想象的连续的,虽然他是失败的，希望也有他的意义。
 
