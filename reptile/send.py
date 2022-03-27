@@ -1,7 +1,5 @@
-import time
-from traceback import print_tb
 import requests
-from reptile.cve import *
+# from reptile.cve import *
 
 # 新漏洞判断
 def send(cve_url):
